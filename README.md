@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **HTML,CSS,JS,Nodejs,Mongodb,Express**
 
-- 📫 How to reach me **aakashgaurav456@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link](https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link)
 
