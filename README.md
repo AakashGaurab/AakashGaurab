@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Gaurab</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<img align="right" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgaurab&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgaurab" /> </p>
 
@@ -9,16 +7,16 @@
 
 - 👯 I’m looking to collaborate on **Backend & Frontend Projects**
 
+- 👨‍💻 All of my projects are available at [https://aakashgaurab.github.io/](https://aakashgaurab.github.io/)
+
 - 💬 Ask me about **HTML,CSS,JS,Nodejs,Mongodb,Express**
 
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link](https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link)
--   <a href="https://aakashgaurab.github.io/">Here is my Portfolio</a>
+
 - ⚡ Fun fact **I think Iam Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@aakashgaurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@aakashgaurab" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aakash gaurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash gaurab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aakashgaurav456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakashgaurav456" height="30" width="40" /></a>
 </p>
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakashgaurab&show_icons=true&locale=en" alt="aakashgaurab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashgaurab&" alt="aakashgaurab" /></p>
-
