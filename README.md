@@ -10,6 +10,8 @@
 
 - 👨‍💻 All of my projects are available at [https://aakashgaurab.github.io/](https://aakashgaurab.github.io/)
 
+- 👨‍ ## My Portfolio  <a href="https://aakashgaurab.github.io/">
+
 - 💬 Ask me about **HTML,CSS,JS,Nodejs,Mongodb,Express**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link](https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link)
