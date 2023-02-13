@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Backend & Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://aakashgaurab.github.io/](https://aakashgaurab.github.io/)
+- 👨‍💻 All of my projects are available at  (https://aakashgaurab.github.io/)
 
 - 👨‍ ## My Portfolio  <a href="https://aakashgaurab.github.io/">
 
