@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aakash Gaurab</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgaurab&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgaurab" /> </p>
 
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px" height=""400px align="right">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  align="right" width="600px" height="400px">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgaurab&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgaurab" /> </p>
 
 - 🌱 I’m currently learning **Mongodb**
 
