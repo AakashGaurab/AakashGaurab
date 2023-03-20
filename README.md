@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakash Gaurab</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400px" height=""400px align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashgaurab&label=Profile%20views&color=0e75b6&style=flat" alt="aakashgaurab" /> </p>
 
@@ -8,16 +7,14 @@
 
 - 👯 I’m looking to collaborate on **Backend & Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aakashgaurab.github.io/)
+- 👨‍💻 All of my projects are available at [https://aakashgaurab.github.io/](https://aakashgaurab.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JS,Nodejs,Mongodb,Express**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link](https://drive.google.com/file/d/1hiRmAHyoyN83UPcPHJxJ__MbPKadVeWK/view?usp=share_link)
 
 - ⚡ Fun fact **I think Iam Funny**
-<div>
-  <a href="https://aakashgaurab.github.io/">My Portfolio</a>
-  </div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aakash gaurab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash gaurab" height="30" width="40" /></a>
