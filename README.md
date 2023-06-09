@@ -1,6 +1,6 @@
 # 💫 About Me:
 <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  align="right" width="500px" height="300px">
-🌱 I’m currently learning System Design<br><br>👯 I’m looking to collaborate on Backend & Frontend Projects<br><br>👨‍💻 All of my projects are available at https://aakashgaurab.github.io/<br><br>💬 Ask me about Nodejs, Mongodb, MySql, Express, React<br><br>⚡ Fun fact I think I am Funny
+🌱 I’m currently learning System Design<br><br>👯 I’m looking to collaborate on Backend & Frontend Projects<br><br>👨‍💻 All of my projects are available at <a href="https://aakashgaurab.github.io/">Portfolio</a>/<br><br>💬 Ask me about Nodejs, Mongodb, MySql, Express, React<br><br>⚡ Fun fact I think I am Funny
 
 
 ## 🌐 Socials:
